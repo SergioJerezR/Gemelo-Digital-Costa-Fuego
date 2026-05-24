@@ -1,0 +1,11 @@
+Source,Target,Value
+Agua Mina (Humedad),Nodo 1: Molienda,117.02
+Agua Fresca (Makeup),Nodo 1: Molienda,1065.58
+Nodo 1: Molienda,Nodo 2: Flotación,5678.45
+Nodo 2: Flotación,Nodo 3: Limpieza,323.62
+Nodo 2: Flotación,Nodo 4: Dewatering,5354.83
+Nodo 3: Limpieza,Nodo 4: Dewatering,121.36
+Nodo 3: Limpieza,Nodo 4: Dewatering,202.26
+Nodo 4: Dewatering,Pérdida TSF,1176.98
+Nodo 4: Dewatering,Pérdida Concentrado,5.62
+Nodo 4: Dewatering,Nodo 1: Molienda,4495.85
